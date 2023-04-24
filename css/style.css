@@ -142,7 +142,7 @@ button {
   font-size: 20px;
   line-height: 36px;
   text-align: left;
-  background: url(/img/icon.png) 45px center no-repeat;
+  background: url(../img/icon.png) 45px center no-repeat;
   padding-left: 80px;
 }
 .li-1 {
@@ -174,7 +174,7 @@ button {
   width: 200px;
   height: 45px;
   border-radius: 50px;
-  background: url(/img/Shape.png) 150px center no-repeat #80b7b3;
+  background: url(../img/Shape.png) 150px center no-repeat #80b7b3;
   letter-spacing: 2px;
 }
 /*--------------------*/
